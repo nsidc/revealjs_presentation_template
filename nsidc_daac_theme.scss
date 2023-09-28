@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: “Source Sans Pro”, Helvetica, sans-serif !default;
+
+// colors
+$body-bg: #f0f1eb !default;
+$body-color: #000 !default;
+$link-color: #51483d !default;
+$selection-bg: #26351c !default;
+
+// headings
+$presentation-heading-font: “Source Sans Pro”, Helvetica, sans-serif !default;
+$presentation-heading-color: #383d3d !default;
+$presentation-h1-color: #003366 !default;
+
+$presentation-font-size-root: 35px;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 230px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.adjust-line-height {
+  line-height: 1em;
+}

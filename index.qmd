@@ -1,0 +1,25 @@
+---
+title: Cloud Optimized Formats
+author: "Your Name"
+title-slide-attributes:
+    data-background-image: images/seaice_background.png
+format:
+  revealjs:
+    theme: nsidc_daac_theme.scss
+    code-fold: true
+    fig-cap-location: top
+    logo: images/nsidc_daac_logo.png
+    footer: "Presentation Slide Template: Name of Meeting, date-of-meeting, location"
+    embed-resources: True
+---
+
+## Title of Second Slide
+
+
+## A Slide with an Image
+
+
+## A slide with two columns
+
+
+## A slide with a html table

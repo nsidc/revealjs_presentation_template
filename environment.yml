@@ -1,0 +1,17 @@
+name: presentation-env
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - quarto
+
+########################################################
+# You only need quarto for publishing a presentation   #
+# but if you want to execute code in your presentation #
+# or run a python script, add the packages here        #
+########################################################
+
+#  - ipython
+#  - jupyterlab
+#  - earthaccess
+#  - matplotlib
