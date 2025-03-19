@@ -6,7 +6,7 @@ author:
     name: "Affiliation"
   orcid: "ORCID"
 title-slide-attributes:
-    data-background-image: images/sea-ice-background.jpeg
+    data-background-image: images/sea-ice-background.jpeg  # Select background image
 format:
   revealjs:
     theme: nsidc_daac_theme.scss
